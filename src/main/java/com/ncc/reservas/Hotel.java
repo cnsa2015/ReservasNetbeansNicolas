@@ -13,7 +13,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author administrador
+ * @author Nicolas
  */
 @Entity
 @Table(name = "HOTEL")
